@@ -9,4 +9,4 @@ Stacking: linear combination of XGBoost and Lasso regression.
 
 Result: 
 
-test loss score: 0.11995 
+test loss score: 0.11936
